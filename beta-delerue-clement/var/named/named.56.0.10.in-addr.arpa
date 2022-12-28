@@ -1,0 +1,14 @@
+$TTL 604800;
+$ORIGIN 56.0.10.in-addr.arpa.
+
+@       IN SOA beta.wulverdinghe.fr. root.wulverdinghe.fr. (
+        2022060801;
+        2D;
+        4H;
+        1W;
+        10D;
+        )
+@       IN NS wulverdinghe.fr.
+2 	IN PTR alpha
+5       IN PTR beta
+20      IN PTR gamma

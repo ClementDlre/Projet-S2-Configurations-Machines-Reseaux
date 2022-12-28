@@ -1,0 +1,16 @@
+$TTL 604800;
+$ORIGIN wulverdinghe.fr.
+
+@	IN SOA beta.wulverdinghe.fr. root.wulverdinghe.fr. (
+	2022060801;
+	2D;
+	4H;
+	1W;
+	10D;
+)
+
+@	IN NS beta.wulverdinghe.fr.
+alpha 	IN A 10.0.56.2
+beta	IN A 10.0.56.5
+gamma 	IN A 10.0.56.20
+www IN CNAME beta

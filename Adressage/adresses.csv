@@ -1,0 +1,8 @@
+nom du domaine,machine,interface,adresse IPv4,adresse IPv6
+r1.d2.es,r1,eth0,5.2.4.0/25,2E00:2:4:1::/64
+r1.d2.es,r1,eth1,5.2.4.128/26,2E00:2:4:2::/64
+alpha.d2.es,alpha,eth0,5.2.4.1/25,2E00:2:4:2::/64
+beta.d2.es,beta,eth0,5.2.4.129/26,2E00:2:4:3::/64
+r1.d2.es,r1,wan0,5.2.4.244/30,2E00:2:4:3::/64
+r1.d2.es,r1,wan1,5.2.4.248/30,2E00:2:4:4::/64
+r1.d2.es,r1,wan2,5.2.4.252/30,2E00:2:4:5::/64
